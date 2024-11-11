@@ -1,0 +1,27 @@
+h1{
+    color: pink;
+    background-color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.thermos-text {
+    color: goldenrod;
+    background-color: aqua;
+    position:sticky;
+    top: 100px;
+    left: 100px;
+    font-size:xx-large;
+    display: inline;
+}
+
+body{
+    background-color: blanchedalmond;
+}

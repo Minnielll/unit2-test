@@ -1,0 +1,28 @@
+h1{
+    color: pink;
+    background-color: white;
+    position: sticky; 
+}
+
+.container{
+    text-align: center;
+}
+
+.ecology-text{
+    color:white;
+    background-color: darkseagreen;
+    position: sticky;
+    top: 100px;
+    left:100px;
+    font-size: xx-large;
+    display: inline;
+}
+
+img{
+    width: 500px;
+    height:auto;
+}
+
+body{
+    background-color: blanchedalmond;
+}
